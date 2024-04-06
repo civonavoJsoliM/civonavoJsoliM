@@ -2,18 +2,23 @@
 
 **`Junior Java Software Developer`**
 
+Hello World,
 
-<!--
-**civonavoJsoliM/civonavoJsoliM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Milos. A young and enthusiastic Java Developer. I discovered my passion for programming in middle school, but for a long time I didn't dare to pursue this path further.
+Now that I'm a little older, I took the bold step and don't regret it for a moment. The first time I sat in class and wrote my first line of code, my heart started beating faster.
+At that moment I knew that I had not lost my passion and that I was on the right path.
 
-Here are some ideas to get you started:
+I will complete my current training in July 2024 and present a self-written project in which I will implement Java, SQL and JavaFX. But my curiosity and thirst for knowledge go far beyond that.
+I plan to develop myself in Micronaut, React, Kotlin and many other programming languages ​​and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coding is my passion, and with my mentality, my work ethic, my mindset and my willingness to learn, I know no limits.
+
+---
+
+###🧰 Languages and Tools
+
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="padding-right:10px;" style="padding-right:10px;" />][webdevplaylist]
+
+#
