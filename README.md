@@ -1,5 +1,3 @@
-### Hello World! 🌍
-
 **`Junior Java Software Developer`**
 
 Hello World!
@@ -8,7 +6,7 @@ I'm Milos. A young and enthusiastic Java Developer. I discovered my passion for 
 Now that I'm a little older, I took the bold step and don't regret it for a moment. The first time I sat in class and wrote my first line of code, my heart started beating faster.
 At that moment I knew that I had not lost my passion and that I was on the right path.
 
-I will complete my current training in July 2024 and present a self-written project in which I will implement Java, SQL and JavaFX. But my curiosity and thirst for knowledge go far beyond that.
+I will complete my current education in 07/2024 and present a self-written project in which I will implement Java, SQL and JavaFX. But my curiosity and thirst for knowledge go far beyond that.
 I plan to develop myself in Micronaut, React, Kotlin and many other programming languages ​​and frameworks.
 
 Coding is my passion, and with my mentality, my work ethic, my mindset and my willingness to learn, I know no limits.
